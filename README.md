@@ -8,4 +8,6 @@ Script usando autohotkey para periodicamente pressionar a barra de espaço.
 
 2. Clicar [aqui](https://github.com/jp-guimaraes/pulador/raw/master/executavel.exe) para baixar o programa. Depois, com o Autohotkey instalado é só executar o programa 'executável.exe'.
 
-3. (Opcional) Se quiser personalizar os temporizadores, editar o arquivo 'script.ahk'
+3. (Opcional) Se quiser personalizar os temporizadores basta baixar todos os arquivos desse repositório e editar o arquivo script.ahk'. 
+
+: )
